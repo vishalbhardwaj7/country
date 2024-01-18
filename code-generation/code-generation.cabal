@@ -26,7 +26,7 @@ executable country-code-generation
     , siphon >= 0.8.1
     , streaming
     , streaming-bytestring
-    , text >= 1.2
+    , text
     , transformers
   default-language: Haskell2010
 

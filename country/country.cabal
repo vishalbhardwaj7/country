@@ -65,7 +65,7 @@ library
     , attoparsec >=0.13 && <0.15
     , base >=4.12 && <5
     , bytebuild >=0.3.4 && <0.4
-    , bytehash >=0.1.1 && <0.2
+    , bytehash
     , byteslice >=0.2.3 && <0.3
     , bytestring >= 0.10 && <0.12
     , contiguous >=0.6.1
@@ -73,7 +73,7 @@ library
     , entropy >=0.4.1.5 && <0.5
     , hashable >=1.2 && <1.5
     , primitive >= 0.6.4 && <0.10
-    , primitive-unlifted >= 2.1
+    , primitive-unlifted
     , scientific >=0.3 && <0.4
     , text
     , text-short >=0.1.3
